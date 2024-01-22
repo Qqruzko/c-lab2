@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\bin\Debug\ex6.exe.config
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\bin\Debug\ex6.exe
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\bin\Debug\ex6.pdb
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.Form1.resources
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.exe
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex6\ex6\obj\Debug\ex6.pdb
