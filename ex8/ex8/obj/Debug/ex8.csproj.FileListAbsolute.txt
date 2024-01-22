@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\bin\Debug\ex8.exe.config
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\bin\Debug\ex8.exe
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\bin\Debug\ex8.pdb
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.Form1.resources
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.exe
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.pdb
+C:\Users\Lenovo\Desktop\WindowsForms\Lab2\ex8\ex8\obj\Debug\ex8.csproj.AssemblyReference.cache
